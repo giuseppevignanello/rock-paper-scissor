@@ -4,6 +4,10 @@ body {
 background: linear-gradient(90deg, rgba(97,144,232,1) 0%, rgba(167,191,232,1) 35%);
 }
 
+.bg_green {
+    background-color: #70e870!important;
+}
+
 .icon {
     width: 80px;
     height: 80px;
